@@ -1,1 +1,2 @@
 Contingut inicial del fitxer 1
+Versio 2 de branca1
