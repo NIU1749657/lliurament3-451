@@ -1,1 +1,2 @@
 Contingut inicial del fitxer 2
+Contingut addicional a branca2
